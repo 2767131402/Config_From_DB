@@ -1,0 +1,5 @@
+conf:
+  data:
+    id: eurake
+  group:
+    id: test
